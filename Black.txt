@@ -1,2 +1,3 @@
 # FusionGuard list: one SteamID64 per line. Lines starting with # are ignored.
+76561198089642697
 76561199030280541
